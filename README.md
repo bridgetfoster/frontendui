@@ -1,3 +1,3 @@
-# frontendui
+# frontend ui 
 
-Mock front end ui e commerce
+Mock front end e commerce layout
